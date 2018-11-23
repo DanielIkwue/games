@@ -1,0 +1,17 @@
+var canvas;
+var canvasContext;
+
+var variable = 50;
+ in your draw object function put it there
+ variable = variable + 10;
+
+and alsawsy include window.onload = function() {
+                canvas = document.getElementById('gameCanvas');
+                canvas = canvas.getContext('2d');
+                function();
+
+
+
+
+
+}
